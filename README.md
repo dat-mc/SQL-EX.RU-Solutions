@@ -21,6 +21,7 @@
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2011.sql">Excercise: 11</a></li>
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2012.sql">Excercise: 12</a></li>
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2013.sql">Excercise: 13</a></li>
+					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2014.sql">Excercise: 14</a></li>
 				</ul>
 			</li>
 		</ul>
