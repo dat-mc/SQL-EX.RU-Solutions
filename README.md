@@ -5,7 +5,17 @@
 	</head>
 	<body>
 		<h2>My solutions to SQL exercises at <a href="http://www.sql-ex.ru">SQL-EX.RU</a></h2>
-		<ul>
+		<ul>			
+			<li><h3><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/tree/main/DML)">DML</a></h3>
+				<ul>
+					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%201.sql">Exercise: 1</a></li>
+					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%202.sql">Exercise: 2</a></li>
+					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%203.sql">Excercise: 3</a></li>
+					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%204.sql">Excercise: 4</a></li>
+					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%205.sql">Excercise: 5</a></li>
+					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%206.sql">Excercise: 6</a></li>
+				</ul>
+			</li>
 			<li><h3><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/tree/main/SELECT%20(learning%20stage)">SELECT (Learning Stage)</a></h3>
 				<ul>
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%201.sql">Exercise: 1</a></li>
@@ -24,7 +34,7 @@
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2014.sql">Excercise: 14</a></li>
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2015.sql">Excercise: 15</a></li>
 				</ul>
-			</li>
+			</li>			
 		</ul>
 	</body>
 </html>
