@@ -18,6 +18,7 @@
 				</ul>
 			</li>
 			<li><h3><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/tree/main/SELECT%20(learning%20stage)">SELECT (Learning Stage)</a></h3>
+				<a href="https://www.sql-ex.ru/help/select13.php#db_1">Database schema</a>
 				<ul>
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%201.sql">Exercise: 1</a></li>
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%202.sql">Exercise: 2</a></li>
