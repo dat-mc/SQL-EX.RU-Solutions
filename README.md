@@ -16,6 +16,8 @@
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%205.sql">Excercise: 5</a></li>
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%206.sql">Excercise: 6</a></li>
 					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%207.sql">Excercise: 7</a></li>
+					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%208.sql">Excercise: 8</a></li>
+					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%209.sql">Excercise: 9</a></li>
 				</ul>
 			</li>
 			<li><h3><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/tree/main/SELECT%20(learning%20stage)">SELECT (Learning Stage)</a></h3>
