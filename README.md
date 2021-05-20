@@ -1,46 +1,31 @@
-# SQL-EX.RU-solutions
-<!DOCTYPE html>
-<html>
-	<head>
-	</head>
-	<body>
-		<h2>My solutions to SQL exercises at <a href="http://www.sql-ex.ru">SQL-EX.RU</a></h2>
-		<h3><a href="https://www.sql-ex.ru/help/select13.php#db_1">Computer firm - Database schema</a></h3>
-		<h3><a href="https://www.sql-ex.ru/help/select13.php#db_3">Ships - Database schema</a></h3>
-		<ul>			
-			<li><h3><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/tree/main/DML)">DML</a></h3>
-				<ul>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%201.sql">Exercise: 1 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%202.sql">Exercise: 2 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%203.sql">Excercise: 3 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%204.sql">Excercise: 4 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%205.sql">Excercise: 5 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%206.sql">Excercise: 6 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%207.sql">Excercise: 7 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%208.sql">Excercise: 8 (Ships)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%209.sql">Excercise: 9 (Ships)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/DML/Exercise:%2010.sql">Excercise: 10 (Computer firm)</a></li>
-				</ul>
-			</li>
-			<li><h3><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/tree/main/SELECT%20(learning%20stage)">SELECT (Learning Stage)</a></h3>
-				<ul>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%201.sql">Exercise: 1 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%202.sql">Exercise: 2 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%203.sql">Excercise: 3 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%204.sql">Excercise: 4 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%205.sql">Excercise: 5 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%206.sql">Excercise: 6 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%207.sql">Excercise: 7 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%208.sql">Excercise: 8 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%209.sql">Excercise: 9 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2010.sql">Excercise: 10 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2011.sql">Excercise: 11 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2012.sql">Excercise: 12 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2013.sql">Excercise: 13 (Computer firm)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2014.sql">Excercise: 14 (Ships)</a></li>
-					<li><a href="https://github.com/dat-mc/SQL-EX.RU-solutions/blob/main/SELECT%20(learning%20stage)/Exercise:%2015.sql">Excercise: 15 (Computer firm)</a></li>
-				</ul>
-			</li>			
-		</ul>
-	</body>
-</html>
+# SQL-EX.RU solutions
+## My solutions to SQL exercises at [SQL-EX.RU](http://www.sql-ex.ru)
+#### [Computer firm - Database schema](https://www.sql-ex.ru/help/select13.php#db_1)
+#### [Ships - Database schema](https://www.sql-ex.ru/help/select13.php#db_3)
+- [SELECT (Learning Stage)](SELECT%20(learning%20stage))
+	- [Exercise: 1 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%201.sql)
+	- [Exercise: 2 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%202.sql)
+	- [Excercise: 3 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%203.sql)
+	- [Excercise: 4 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%204.sql)
+	- [Excercise: 5 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%205.sql)
+	- [Excercise: 6 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%206.sql)
+	- [Excercise: 7 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%207.sql)
+	- [Excercise: 8 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%208.sql)
+	- [Excercise: 9 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%209.sql)
+	- [Excercise: 10 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%2010.sql)
+	- [Excercise: 11 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%2011.sql)
+	- [Excercise: 12 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%2012.sql)
+	- [Excercise: 13 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%2013.sql)
+	- [Excercise: 14 (Ships)](SELECT%20(learning%20stage)/Exercise:%2014.sql)
+	- [Excercise: 15 (Computer firm)](SELECT%20(learning%20stage)/Exercise:%2015.sql)
+- [DML](DML)
+	- [Exercise: 1 (Computer firm)](DML/Exercise:%201.sql)
+	- [Exercise: 2 (Computer firm)](DML/Exercise:%202.sql)
+	- [Excercise: 3 (Computer firm)](DML/Exercise:%203.sql)
+	- [Excercise: 4 (Computer firm)](DML/Exercise:%204.sql)
+	- [Excercise: 5 (Computer firm)](DML/Exercise:%205.sql)
+	- [Excercise: 6 (Computer firm)](DML/Exercise:%206.sql)
+	- [Excercise: 7 (Computer firm)](DML/Exercise:%207.sql)
+	- [Excercise: 8 (Ships)](DML/Exercise:%208.sql)
+	- [Excercise: 9 (Ships)](DML/Exercise:%209.sql)
+	- [Excercise: 10 (Computer firm)](DML/Exercise:%2010.sql)
