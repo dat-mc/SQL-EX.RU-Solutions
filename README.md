@@ -1,5 +1,6 @@
 # SQL-EX.RU solutions
-## My solutions to SQL exercises at [SQL-EX.RU](http://www.sql-ex.ru)
+### My solutions to SQL exercises at [SQL-EX.RU](http://www.sql-ex.ru)
+![Badge](http://www.sql-ex.ru/images/rate_btn/image.php?id=593906&ban=4)
 #### [Computer firm - Database schema](https://www.sql-ex.ru/help/select13.php#db_1)
 #### [Ships - Database schema](https://www.sql-ex.ru/help/select13.php#db_3)
 - [SELECT (Learning Stage)](SELECT%20(learning%20stage))
